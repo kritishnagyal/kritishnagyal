@@ -2,8 +2,8 @@
 - 👀 I’m interested in space exploration and robotics 
 - 🌱 I’m currently learning Signal and Image Processing in Matlab
 - 📫 How to reach me via linkden profile 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Stark wears a fitting shirt
 - 🏏 Cricket enthusiast 
 <!-
 kritishnagyal/kritishnagyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
